@@ -57,7 +57,7 @@ a {
 
 .tile {
     width: 100%;
-    background-color: rgb(57, 128, 214);
+    background-color: skyblue;
     margin: 7px;
     border-radius: 17px;
     display: flex;
