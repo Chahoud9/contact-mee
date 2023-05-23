@@ -57,7 +57,7 @@ a {
 
 .tile {
     width: 100%;
-    background-color: rgb(237, 165, 71);
+    background-color: rgb(45, 94, 242);
     margin: 7px;
     border-radius: 17px;
     display: flex;
@@ -76,7 +76,7 @@ a {
     width: 40px;
     height: 40px;
     border-radius: 20px;
-    background-color: rgb(52, 52, 52);
+    background-color: rgb(0, 0, 0);
 }
 
 .tile-share-button svg {
